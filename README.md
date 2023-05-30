@@ -1,6 +1,9 @@
-### Hi there 👋
-
+### Hi 👋
 [![kashifsoofi's GitHub | Stats](https://stats.quine.sh/kashifsoofi/github?theme=light)](https://quine.sh)
+
+[![kashifsoofi's GitHub | Languages Over Time](https://stats.quine.sh/kashifsoofi/languages-over-time?theme=light)](https://quine.sh)
+
+[![kashifsoofi's GitHub | Topics Over Time](https://stats.quine.sh/kashifsoofi/topics-over-time?theme=light)](https://quine.sh)
 
 <!--
 **kashifsoofi/kashifsoofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
